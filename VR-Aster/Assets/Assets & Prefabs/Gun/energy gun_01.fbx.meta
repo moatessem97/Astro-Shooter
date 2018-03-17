@@ -1,0 +1,558 @@
+fileFormatVersion: 2
+guid: 88c8c0c5aa2ab1a43a094e4300457621
+timeCreated: 1521116428
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Battery Shield001
+    100002: Blasma Tube Holder.003
+    100004: Blasma Tube Holder.004
+    100006: Blasma Tube Holder001
+    100008: Box004
+    100010: Box005
+    100012: Box006
+    100014: Box007
+    100016: Capacitor Core.006
+    100018: Capacitor Core.007
+    100020: Capacitor Core.008
+    100022: Capacitor Core.009
+    100024: Capacitor Core.010
+    100026: Capacitor Core001
+    100028: Capacitor.006
+    100030: Capacitor.007
+    100032: Capacitor.008
+    100034: Capacitor.009
+    100036: Capacitor001
+    100038: Cell Connectors001
+    100040: Cell Core001
+    100042: Cell Guide Rail Connector.006
+    100044: Cell Guide Rail Connector.007
+    100046: Cell Guide Rail Connector.008
+    100048: Cell Guide Rail Connector.009
+    100050: Cell Guide Rail Connector001
+    100052: Cell Holders001
+    100054: Cylinder001
+    100056: Cylinder002
+    100058: Cylinder003
+    100060: Cylinder004
+    100062: Cylinder005
+    100064: Cylinder006
+    100066: Cylinder007
+    100068: //RootNode
+    100070: Guide Arm Connector Plate.002
+    100072: Guide Arm Connector Plate001
+    100074: Guide Arm Connector.011
+    100076: Guide Arm Connector.012
+    100078: Guide Arm Connector.013
+    100080: Guide Arm Connector.014
+    100082: Guide Arm Connector.015
+    100084: Guide Arm Connector.016
+    100086: Guide Arm Connector.017
+    100088: Guide Arm Connector.018
+    100090: Guide Arm Connector.019
+    100092: Guide Arm Connector001
+    100094: Guide Armsgs.005
+    100096: Guide Armsgs.006
+    100098: Guide Armsgs.007
+    100100: Guide Armsgs001
+    100102: Guide Wheel001
+    100104: Line001
+    100106: Line002
+    100108: nano
+    100110: nano001
+    100112: nano002
+    100114: Nanotech
+    100116: Plane001
+    100118: Plane002
+    100120: Plasma Tube case001
+    100122: Plasma Tube001
+    100124: Plasma Valve.002
+    100126: Plasma Valve001
+    100128: Power Regulator001
+    100130: Power Tube.004
+    100132: Scope Connector.006
+    100134: Scope Connector.007
+    100136: Scope Connector.008
+    100138: Scope Connector001
+    100140: Scope Connector002
+    100142: Scope Connector003
+    100144: Scope Shield001
+    100146: Scope Tube.003
+    100148: Scope Tube.004
+    100150: Scope Tube.005
+    100152: Sphere001
+    100154: Sphere002
+    100156: Sphere003
+    100158: Sphere004
+    100160: Sphere005
+    100162: Sphere006
+    100164: Sphere007
+    100166: Sphere008
+    100168: Trigger001
+    400000: Battery Shield001
+    400002: Blasma Tube Holder.003
+    400004: Blasma Tube Holder.004
+    400006: Blasma Tube Holder001
+    400008: Box004
+    400010: Box005
+    400012: Box006
+    400014: Box007
+    400016: Capacitor Core.006
+    400018: Capacitor Core.007
+    400020: Capacitor Core.008
+    400022: Capacitor Core.009
+    400024: Capacitor Core.010
+    400026: Capacitor Core001
+    400028: Capacitor.006
+    400030: Capacitor.007
+    400032: Capacitor.008
+    400034: Capacitor.009
+    400036: Capacitor001
+    400038: Cell Connectors001
+    400040: Cell Core001
+    400042: Cell Guide Rail Connector.006
+    400044: Cell Guide Rail Connector.007
+    400046: Cell Guide Rail Connector.008
+    400048: Cell Guide Rail Connector.009
+    400050: Cell Guide Rail Connector001
+    400052: Cell Holders001
+    400054: Cylinder001
+    400056: Cylinder002
+    400058: Cylinder003
+    400060: Cylinder004
+    400062: Cylinder005
+    400064: Cylinder006
+    400066: Cylinder007
+    400068: //RootNode
+    400070: Guide Arm Connector Plate.002
+    400072: Guide Arm Connector Plate001
+    400074: Guide Arm Connector.011
+    400076: Guide Arm Connector.012
+    400078: Guide Arm Connector.013
+    400080: Guide Arm Connector.014
+    400082: Guide Arm Connector.015
+    400084: Guide Arm Connector.016
+    400086: Guide Arm Connector.017
+    400088: Guide Arm Connector.018
+    400090: Guide Arm Connector.019
+    400092: Guide Arm Connector001
+    400094: Guide Armsgs.005
+    400096: Guide Armsgs.006
+    400098: Guide Armsgs.007
+    400100: Guide Armsgs001
+    400102: Guide Wheel001
+    400104: Line001
+    400106: Line002
+    400108: nano
+    400110: nano001
+    400112: nano002
+    400114: Nanotech
+    400116: Plane001
+    400118: Plane002
+    400120: Plasma Tube case001
+    400122: Plasma Tube001
+    400124: Plasma Valve.002
+    400126: Plasma Valve001
+    400128: Power Regulator001
+    400130: Power Tube.004
+    400132: Scope Connector.006
+    400134: Scope Connector.007
+    400136: Scope Connector.008
+    400138: Scope Connector001
+    400140: Scope Connector002
+    400142: Scope Connector003
+    400144: Scope Shield001
+    400146: Scope Tube.003
+    400148: Scope Tube.004
+    400150: Scope Tube.005
+    400152: Sphere001
+    400154: Sphere002
+    400156: Sphere003
+    400158: Sphere004
+    400160: Sphere005
+    400162: Sphere006
+    400164: Sphere007
+    400166: Sphere008
+    400168: Trigger001
+    2100000: 01 - Default
+    2100002: 02 - Default
+    2100004: Material.003
+    2100006: Brass
+    2100008: Tin
+    2100010: 09 - Default
+    2100012: 03 - Default
+    2100014: 07 - Default
+    2100016: 08 - Default
+    2100018: 14 - Default
+    2100020: 15 - Default
+    2300000: Battery Shield001
+    2300002: Blasma Tube Holder.003
+    2300004: Blasma Tube Holder.004
+    2300006: Blasma Tube Holder001
+    2300008: Box004
+    2300010: Box005
+    2300012: Box006
+    2300014: Box007
+    2300016: Capacitor Core.006
+    2300018: Capacitor Core.007
+    2300020: Capacitor Core.008
+    2300022: Capacitor Core.009
+    2300024: Capacitor Core.010
+    2300026: Capacitor Core001
+    2300028: Capacitor.006
+    2300030: Capacitor.007
+    2300032: Capacitor.008
+    2300034: Capacitor.009
+    2300036: Capacitor001
+    2300038: Cell Connectors001
+    2300040: Cell Core001
+    2300042: Cell Guide Rail Connector.006
+    2300044: Cell Guide Rail Connector.007
+    2300046: Cell Guide Rail Connector.008
+    2300048: Cell Guide Rail Connector.009
+    2300050: Cell Guide Rail Connector001
+    2300052: Cell Holders001
+    2300054: Cylinder001
+    2300056: Cylinder002
+    2300058: Cylinder003
+    2300060: Cylinder004
+    2300062: Cylinder005
+    2300064: Cylinder006
+    2300066: Cylinder007
+    2300068: Guide Arm Connector Plate.002
+    2300070: Guide Arm Connector Plate001
+    2300072: Guide Arm Connector.011
+    2300074: Guide Arm Connector.012
+    2300076: Guide Arm Connector.013
+    2300078: Guide Arm Connector.014
+    2300080: Guide Arm Connector.015
+    2300082: Guide Arm Connector.016
+    2300084: Guide Arm Connector.017
+    2300086: Guide Arm Connector.018
+    2300088: Guide Arm Connector.019
+    2300090: Guide Arm Connector001
+    2300092: Guide Armsgs.005
+    2300094: Guide Armsgs.006
+    2300096: Guide Armsgs.007
+    2300098: Guide Armsgs001
+    2300100: Guide Wheel001
+    2300102: Plane001
+    2300104: Plane002
+    2300106: Plasma Tube case001
+    2300108: Plasma Tube001
+    2300110: Plasma Valve.002
+    2300112: Plasma Valve001
+    2300114: Power Regulator001
+    2300116: Power Tube.004
+    2300118: Scope Connector.006
+    2300120: Scope Connector.007
+    2300122: Scope Connector.008
+    2300124: Scope Connector001
+    2300126: Scope Connector002
+    2300128: Scope Connector003
+    2300130: Scope Shield001
+    2300132: Scope Tube.003
+    2300134: Scope Tube.004
+    2300136: Scope Tube.005
+    2300138: Sphere001
+    2300140: Sphere002
+    2300142: Sphere003
+    2300144: Sphere004
+    2300146: Sphere005
+    2300148: Sphere006
+    2300150: Sphere007
+    2300152: Sphere008
+    2300154: Trigger001
+    3300000: Battery Shield001
+    3300002: Blasma Tube Holder.003
+    3300004: Blasma Tube Holder.004
+    3300006: Blasma Tube Holder001
+    3300008: Box004
+    3300010: Box005
+    3300012: Box006
+    3300014: Box007
+    3300016: Capacitor Core.006
+    3300018: Capacitor Core.007
+    3300020: Capacitor Core.008
+    3300022: Capacitor Core.009
+    3300024: Capacitor Core.010
+    3300026: Capacitor Core001
+    3300028: Capacitor.006
+    3300030: Capacitor.007
+    3300032: Capacitor.008
+    3300034: Capacitor.009
+    3300036: Capacitor001
+    3300038: Cell Connectors001
+    3300040: Cell Core001
+    3300042: Cell Guide Rail Connector.006
+    3300044: Cell Guide Rail Connector.007
+    3300046: Cell Guide Rail Connector.008
+    3300048: Cell Guide Rail Connector.009
+    3300050: Cell Guide Rail Connector001
+    3300052: Cell Holders001
+    3300054: Cylinder001
+    3300056: Cylinder002
+    3300058: Cylinder003
+    3300060: Cylinder004
+    3300062: Cylinder005
+    3300064: Cylinder006
+    3300066: Cylinder007
+    3300068: Guide Arm Connector Plate.002
+    3300070: Guide Arm Connector Plate001
+    3300072: Guide Arm Connector.011
+    3300074: Guide Arm Connector.012
+    3300076: Guide Arm Connector.013
+    3300078: Guide Arm Connector.014
+    3300080: Guide Arm Connector.015
+    3300082: Guide Arm Connector.016
+    3300084: Guide Arm Connector.017
+    3300086: Guide Arm Connector.018
+    3300088: Guide Arm Connector.019
+    3300090: Guide Arm Connector001
+    3300092: Guide Armsgs.005
+    3300094: Guide Armsgs.006
+    3300096: Guide Armsgs.007
+    3300098: Guide Armsgs001
+    3300100: Guide Wheel001
+    3300102: Plane001
+    3300104: Plane002
+    3300106: Plasma Tube case001
+    3300108: Plasma Tube001
+    3300110: Plasma Valve.002
+    3300112: Plasma Valve001
+    3300114: Power Regulator001
+    3300116: Power Tube.004
+    3300118: Scope Connector.006
+    3300120: Scope Connector.007
+    3300122: Scope Connector.008
+    3300124: Scope Connector001
+    3300126: Scope Connector002
+    3300128: Scope Connector003
+    3300130: Scope Shield001
+    3300132: Scope Tube.003
+    3300134: Scope Tube.004
+    3300136: Scope Tube.005
+    3300138: Sphere001
+    3300140: Sphere002
+    3300142: Sphere003
+    3300144: Sphere004
+    3300146: Sphere005
+    3300148: Sphere006
+    3300150: Sphere007
+    3300152: Sphere008
+    3300154: Trigger001
+    4300000: Plane001
+    4300002: Battery Shield001
+    4300004: Cell Core001
+    4300006: Guide Arm Connector Plate.002
+    4300008: Guide Arm Connector.011
+    4300010: Guide Arm Connector.012
+    4300012: Guide Wheel001
+    4300014: Guide Armsgs.005
+    4300016: Guide Arm Connector.013
+    4300018: Guide Arm Connector Plate001
+    4300020: Guide Arm Connector.014
+    4300022: Guide Arm Connector.015
+    4300024: Cell Guide Rail Connector001
+    4300026: Guide Armsgs001
+    4300028: Guide Arm Connector001
+    4300030: Cylinder001
+    4300032: Cylinder002
+    4300034: Cylinder003
+    4300036: Cell Connectors001
+    4300038: Plasma Tube case001
+    4300040: Blasma Tube Holder.003
+    4300042: Blasma Tube Holder001
+    4300044: Plasma Tube001
+    4300046: Blasma Tube Holder.004
+    4300048: Capacitor001
+    4300050: Capacitor.006
+    4300052: Capacitor Core.006
+    4300054: Capacitor Core001
+    4300056: Capacitor Core.007
+    4300058: Capacitor Core.008
+    4300060: Capacitor.007
+    4300062: Capacitor Core.009
+    4300064: Capacitor.008
+    4300066: Capacitor.009
+    4300068: Capacitor Core.010
+    4300070: Plane002
+    4300072: Box004
+    4300074: Cell Holders001
+    4300076: Trigger001
+    4300078: Box005
+    4300080: Cylinder004
+    4300082: Scope Shield001
+    4300084: Cell Guide Rail Connector.006
+    4300086: Guide Arm Connector.016
+    4300088: Guide Armsgs.006
+    4300090: Guide Arm Connector.017
+    4300092: Cell Guide Rail Connector.007
+    4300094: Cell Guide Rail Connector.008
+    4300096: Guide Arm Connector.018
+    4300098: Guide Armsgs.007
+    4300100: Guide Arm Connector.019
+    4300102: Cell Guide Rail Connector.009
+    4300104: Box006
+    4300106: Box007
+    4300108: Cylinder005
+    4300110: Cylinder006
+    4300112: Power Tube.004
+    4300114: Plasma Valve.002
+    4300116: Power Regulator001
+    4300118: Plasma Valve001
+    4300120: Scope Connector001
+    4300122: Scope Tube.003
+    4300124: Scope Connector.006
+    4300126: Scope Tube.004
+    4300128: Scope Connector.007
+    4300130: Scope Connector002
+    4300132: Scope Tube.005
+    4300134: Scope Connector.008
+    4300136: Scope Connector003
+    4300138: Sphere001
+    4300140: Sphere002
+    4300142: Cylinder007
+    4300144: Sphere004
+    4300146: Sphere003
+    4300148: Sphere005
+    4300150: Sphere006
+    4300152: Sphere007
+    4300154: Sphere008
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: f7be5bfea49469c459f53ef8064f0fff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: d446380e308587b448cf9d74064ca979, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 3989ff75266edb8499309778ef5b4859, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: c1124f37c621a3b4eb429107fe925e8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: c5ce4d93f00a48b4ea637bbf965650ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: 0b98ca4a8e6405d4ea5585c593968dbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 14 - Default
+    second: {fileID: 2100000, guid: 672e78aaa2e06104088cc6713dcfce76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15 - Default
+    second: {fileID: 2100000, guid: d454789ae0fdff945ae4019e2fe2348f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brass
+    second: {fileID: 2100000, guid: 17bcb3f126305e5459c00a431e367e8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: e87b0188c5e855f4b8c6d066a48a0a51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tin
+    second: {fileID: 2100000, guid: 429a2e163e8a55444b00c00741c4bda8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.025
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
